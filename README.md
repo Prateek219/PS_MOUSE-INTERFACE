@@ -2,6 +2,7 @@
 This tutorial describes the way of interfacing a PS2 mouse with a microcontroller
 (atmega 16/32) and getting the mouse output on LCD.
 ## CONNECTIONS
+![Screenshot (116)](https://user-images.githubusercontent.com/64007722/79949389-1f651a80-8493-11ea-84ec-bc75c745c532.png)
 
 
 PS2 mouse can be connected to atmega using two type of connectors:
