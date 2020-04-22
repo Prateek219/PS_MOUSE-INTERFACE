@@ -11,6 +11,7 @@ PS2 mouse can be connected to atmega using two type of connectors:
 - 2.6 pin mini connector
 
 Connector pin arrangement
+![Screenshot (117)](https://user-images.githubusercontent.com/64007722/79949508-4d4a5f00-8493-11ea-8d23-af57a6881241.png)
 
 
 ## PS2 ALGORTHIM
