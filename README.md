@@ -20,6 +20,8 @@ received and send synchronous to this clock.Mouse generates the clock signal and
 data is read at the falling edge of the clock.
 Data is: 1 start bit,8 data bits, 1 parity bit, 1 stop bit
 
+![Screenshot (118)](https://user-images.githubusercontent.com/64007722/79949725-9e5a5300-8493-11ea-85e0-3d81b0409b39.png)
+
 
 
 For the host to send a command to mouse, it first brings the clock low for at least
