@@ -35,6 +35,9 @@ On mouse moves the mouse sends 3 bytes of information through the ps-2 port.
 
 The contents of the data packet is described below in the diagram: 
 
+![Screenshot (119)](https://user-images.githubusercontent.com/64007722/79949942-f729eb80-8493-11ea-8754-68ab3c59db98.png)
+
+
 
 Byte 1 contains information on the direction the mouse moved wrt its previous
 
@@ -49,6 +52,8 @@ For detailed information refer:http://www.computer-engineering.org/
 ## C CODE FOR MOUSE INTERFACING
 #### MOUSE IS WORKING IN REMOTE MODE.
 ##### IN THE GIVEN CODE 
+
+![Screenshot (120)](https://user-images.githubusercontent.com/64007722/79949948-fabd7280-8493-11ea-9c55-eeac0418a07f.png)
 - __Pxy(data line pin ) is PINB.1__
 
 - __Pxy(clock line pin) is PINB.0__
